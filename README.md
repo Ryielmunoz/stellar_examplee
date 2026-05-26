@@ -18,7 +18,7 @@ cargo test
 ## Contract ID
 CBSUXPFWQH323YM3DC7IVE4HFHFUE4EE2J4YJR36VCNMCE7WH5A5LKXV
 
-!![picture](Screeenshot 2026-05-26 155348.png)
+!![picture](stellarnigurz.png)
 
 ## Contract Link
 https://stellar.expert/explorer/testnet/contract/CBSUXPFWQH323YM3DC7IVE4HFHFUE4EE2J4YJR36VCNMCE7WH5A5LKXV
