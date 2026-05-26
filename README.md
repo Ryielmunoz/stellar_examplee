@@ -1,6 +1,12 @@
 ## Contract ID
 CBSUXPFWQH323YM3DC7IVE4HFHFUE4EE2J4YJR36VCNMCE7WH5A5LKXV
 
+!![Photos](stellarnigurz.png)
+
+
+## Contract Link
+https://stellar.expert/explorer/testnet/contract/CBSUXPFWQH323YM3DC7IVE4HFHFUE4EE2J4YJR36VCNMCE7WH5A5LKXV
+
 
 # Stellar Notes DApp 📝🔒
 
@@ -41,11 +47,3 @@ Ensure your local system has the following tools installed:
 Compile the source code into an optimized WebAssembly (`.wasm`) payload ready for on-chain deployment:
 ```bash
 soroban contract build
-
-
-!![Photos](stellarnigurz.png)
-
-
-## Contract Link
-https://stellar.expert/explorer/testnet/contract/CBSUXPFWQH323YM3DC7IVE4HFHFUE4EE2J4YJR36VCNMCE7WH5A5LKXV
-
