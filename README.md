@@ -1,3 +1,7 @@
+## Contract ID
+CBSUXPFWQH323YM3DC7IVE4HFHFUE4EE2J4YJR36VCNMCE7WH5A5LKXV
+
+
 # Stellar Notes DApp 📝🔒
 
 A secure, tamper-proof, immutable personal note-taking engine built on the Stellar network using the Soroban Smart Contract SDK.
@@ -39,11 +43,7 @@ Compile the source code into an optimized WebAssembly (`.wasm`) payload ready fo
 soroban contract build
 
 
-## Contract ID
-CBSUXPFWQH323YM3DC7IVE4HFHFUE4EE2J4YJR36VCNMCE7WH5A5LKXV
-
-
-[Photos](stellarnigurz.png)
+!![Photos](stellarnigurz.png)
 
 
 ## Contract Link
